@@ -1,11 +1,6 @@
 # Staircase-problem
 Consider a staircase of size *n*
-   #
-  ##
- ###
-####
-
-its base and height are both equal to *n*, and the image is drawn using # symbols and spaces. 
+Its base and height are both equal to *n*, and the image is drawn using # symbols and spaces. 
 The last line is not preceded by any spaces. The last line must have 0 spaces in it.
 
 ###To Run
